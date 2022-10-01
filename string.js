@@ -1,0 +1,22 @@
+console.log("Hey Virenda Good Morning !");
+let names  = "Virendra Pathak";
+// console.log(names);
+console.log(names.slice(1,5));
+console.log(names.substring(1,5));
+console.log(names.indexOf('a'));
+console.log(names.lastIndexOf("a"));
+console.log(names.toUpperCase());
+console.log(names.toLowerCase());
+console.log(names.replace("Pathak","Golu"));
+let names1 = "        This           is      virendra pathak           ";
+console.log(names1);
+console.log(names1.trim());
+console.log(names.charAt(0));
+console.log(names.charCodeAt(1));
+console.log(names[0]);
+console.log("Length =  "+names.length);
+console.log(names.concat(" Is Good Boy."));
+console.log(names.split());
+
+let a = 12345;
+console.log("Type = "+typeof a);

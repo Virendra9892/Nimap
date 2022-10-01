@@ -1,0 +1,15 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "\"This is javascrriptt practice set.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon operator.js"
+  },
+  "author": "Virendra Pathak\"\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
